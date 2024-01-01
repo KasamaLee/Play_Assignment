@@ -1,0 +1,40 @@
+{
+    "cartItems": [
+        {
+            "name": "T-Shirt",
+            "price": 350,
+            "category": "Clothing",
+            "amount": 1
+        },
+        {
+            "name": "Hat",
+            "price": 250,
+            "category": "Accessories",
+            "amount": 1
+        },
+        {
+            "name": "Belt",
+            "price": 230,
+            "category": "Accessories",
+            "amount": 1
+        }
+    ],
+    "campaigns": [
+        {
+            "name": "Fixed amount",
+            "category": "Coupon",
+            "amount": 50
+        },
+        {
+            "name": "Percentage discount",
+            "category": "Coupon",
+            "percentage": 10
+        },
+        {
+            "name": "Seasonal",
+            "category": "Seasonal",
+            "everyX": 300,
+            "discountY": 40
+        }
+    ]
+}

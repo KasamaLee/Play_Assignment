@@ -1,0 +1,31 @@
+{
+    "cartItems": [
+        {
+            "name": "T-Shirt",
+            "price": 350,
+            "category": "Clothing",
+            "amount": 1
+        },
+        {
+            "name": "Hat",
+            "price": 250,
+            "category": "Accessories",
+            "amount": 1
+        },
+        {
+            "name": "Belt",
+            "price": 230,
+            "category": "Accessories",
+            "amount": 1
+        }
+    ],
+    "campaigns": [
+        {
+            "name": "Special campaigns",
+            "category": "Seasonal",
+            "points": 68,
+            "everyX": 300,
+            "discountY": 40
+        }
+    ]
+}

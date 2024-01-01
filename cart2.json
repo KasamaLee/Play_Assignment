@@ -1,0 +1,23 @@
+{
+    "cartItems": [
+        {
+            "name": "T-Shirt",
+            "category": "Clothing",
+            "price": 350,
+            "amount": 1
+        },
+        {
+            "name": "Hat",
+            "category": "Clothing",
+            "price": 250,
+            "amount": 1
+        }
+    ],
+    "campaigns": [
+        {
+            "name": "Percentage discount",
+            "category": "Coupon",
+            "percentage": 10
+        }
+    ]
+}
